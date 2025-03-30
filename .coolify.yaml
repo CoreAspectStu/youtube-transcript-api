@@ -1,0 +1,6 @@
+services:
+  - name: youtube-transcript-api
+    type: docker
+    port: 5001
+    domains:
+      - transcripts.yourdomain.com
