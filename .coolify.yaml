@@ -3,4 +3,4 @@ services:
     type: docker
     port: 5001
     domains:
-      - transcripts.yourdomain.com
+      - yt-transcriber.coreaspectai.com
